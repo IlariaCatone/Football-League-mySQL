@@ -1,0 +1,19 @@
+﻿IDPartita, NumGiornata, SquadraCasa, GoalSquadraCasa, SquadraOspite, GoalSquadraOspite, data
+
+1,10,Fiorentina,4,Juventus,2,2013/10/20
+2,1,Roma,1,Fiorentina,2,2006/08/24
+3,5,Lazio,4,Roma,2,2015/10/01
+4,19,Torino,1,Lazio,1,2018/12/23
+5,12,Napoli,1,Torino,2,2019/11/11
+6,38,Lecce,1,Napoli,1,2018/06/17
+7,6,Juventus,2,Lecce,1,2017/10/30
+8,12,Cittadella,0,Benevento,0,2019/11/11
+9,31,Benevento,1,Cittadella,2,2020/05/17
+10,30,Catania,0,Reggina,1,2020/05/10
+11,25,Bari,1,Catania,1,2016/04/29
+12,16,Reggina,1,Siena,0,2015/12/01
+13,23,Siena,1,Bari,0,2018/03/11
+14,23,Palermo,1,Sangiovannese,1,2018/03/11
+15,13,Sangiovannese,1,Scandicci,1,2015/10/30
+16,38,Scandicci,0,Palermo,0,2020/06/29
+17,23,Fiorentina,1,Lazio,0,2007/04/30
